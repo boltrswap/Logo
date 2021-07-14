@@ -1,14 +1,16 @@
-![BoltrLogoSubmission](https://github.com/boltrswap/Boltr-Swap-Periphery/blob/main/boltrperipherylogo.jpg) 
+![BoltrLogoSubmission](https://github.com/boltrswap/Other-Project-Logo/blob/main/logo%20submission.jpg) 
 
 
 
-Boltr Periphery : Introduction
+Submit your logo as per Instruction below:
 =====================================
+1. Fork this repository
+2. Fill the form in 
+
+
 
 **Well created by Boltr Dev. (2021)**
 
-
-Boltr Periphery
 
 
 ### Boltr Mission
